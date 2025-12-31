@@ -1,4 +1,4 @@
-# 👋 Hello, I'm acybermind
+# 👋 Hello, I'm aeternaMentisNexus
 
 I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My primary focus is on the intersection of brain science and technology, but I also have a keen interest in cybersecurity. I'm always exploring how emerging technologies can be leveraged to push the boundaries of what we know about the brain and to enhance security in digital systems.
 
@@ -25,15 +25,15 @@ I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My pr
 ![Cyber GIF](https://github.com/acybermind/Statistical-Learning-and-Simulation/cyber.gif)
 ![cyber](https://github.com/user-attachments/assets/b7e223b0-b496-4571-890f-c08ff0f26826)
 
-![GitHub followers](https://img.shields.io/github/followers/acybermind?style=social)
-![GitHub stars](https://img.shields.io/github/stars/acybermind?style=social)
+![GitHub followers](https://img.shields.io/github/followers/aeternaMentisNexus?style=social)
+![GitHub stars](https://img.shields.io/github/stars/aeternaMentisNexus?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acybermind&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acybermind&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeternaMentisNexus&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternaMentisNexus&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=acybermind&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=aeternaMentisNexus&color=brightgreen)
 
-![Banner](https://github.com/acybermind/acybermind/raw/main/banner.png)
+![Banner](https://github.com/acybermind/aeternaMentisNexus/raw/main/banner.png)
 
 "If proof does not live in the mind, you cannot prove it." — Grigori Perelman
