@@ -1,4 +1,4 @@
-# 👋 Hello, I'm acybermind
+![cyber](https://github.com/user-attachments/assets/b7e223b0-b496-4571-890f-c08ff0f26826)# 👋 Hello, I'm acybermind
 
 I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My primary focus is on the intersection of brain science and technology, but I also have a keen interest in cybersecurity. I'm always exploring how emerging technologies can be leveraged to push the boundaries of what we know about the brain and to enhance security in digital systems.
 
@@ -22,7 +22,7 @@ I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My pr
 
 ## 🎨 Visual Enhancements
 
-![Cyber GIF](https://github.com/acybermind/PhdThesis/raw/main/cyber.gif)
+![Cyber GIF](https://github.com/acybermind/Statistical-Learning-and-Simulation/cyber.gif)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/acybermind?style=social)
